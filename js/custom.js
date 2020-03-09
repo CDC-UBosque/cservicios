@@ -1,3 +1,19 @@
+//Document on ready functions
+$(document).ready(function(){
+  "use strict";
+
+  /*************************/
+  /*       PRELOADER       */
+  /*************************/
+  //After 2s preloader is fadeOut
+  $('.preloader').delay(2000).fadeOut('slow');
+  setTimeout(function() {
+    //After 2s, the no-scroll class of the body will be removed
+    $('body').removeClass('no-scroll');
+  }, 2000); //Here you can change preloader time
+}); //end jquery document ready
+
+
 $("#main").mousemove(function(e) {
   parallaxIt(e, ".field--name-hero-body--titleh1", -10);
   parallaxIt(e, ".field--name-hero-body--titleh2", -10);
@@ -189,11 +205,15 @@ var scene5 = new ScrollMagic.Scene({triggerElement: "#trigger3wrap",triggerHook:
 
 //Smooth scroll for specific anchor
 $(document).ready(function(){
+
+
    // for active class
     $(".nav-item.nav-link").on("click",function(){
       $(".nav-item.nav-link.current").removeClass("current");
       $(this).addClass("current");
     });
+
+
 });
 
 $(document).on('click', 'a[href^="#"]', function (event) {
