@@ -1,0 +1,301 @@
+/* TYPOGRAPHY */
+
+//@font-face {
+//    font-family: 'DINPro-Bold';
+//    src: url('../fonts/DINPro-Bold.eot');
+//    src: url('../fonts/DINPro-Bold.eot?#iefix') format('embedded-opentype'),
+//         url('../fonts/DINPro-Bold.woff2') format('woff2'),
+//         url('../fonts/DINPro-Bold.woff') format('woff'),
+//         url('../fonts/DINPro-Bold.svg#DINPro-Bold') format('svg');
+//}
+//@font-face {
+//    font-family: 'DINPro-Light';
+//    src: url('../fonts/DINPro-Light.eot');
+//    src: url('../fonts/DINPro-Light.eot?#iefix') format('embedded-opentype'),
+//         url('../fonts/DINPro-Light.woff2') format('woff2'),
+//         url('../fonts/DINPro-Light.woff') format('woff'),
+//         url('../fonts/DINPro-Light.svg#DINPro-Light') format('svg');
+//}
+//@font-face {
+//    font-family: 'DINPro-Medium';
+//    src: url('../fonts/DINPro-Medium.eot');
+//    src: url('../fonts/DINPro-Medium.eot?#iefix') format('embedded-opentype'),
+//         url('../fonts/DINPro-Medium.woff2') format('woff2'),
+//         url('../fonts/DINPro-Medium.woff') format('woff'),
+//         url('../fonts/DINPro-Medium.svg#DINPro-Medium') format('svg');
+//}
+//@font-face {
+//    font-family: 'DINPro-Regular';
+//    src: url('../fonts/DINPro-Regular.eot');
+//    src: url('../fonts/DINPro-Regular.eot?#iefix') format('embedded-opentype'),
+//         url('../fonts/DINPro-Regular.woff2') format('woff2'),
+//         url('../fonts/DINPro-Regular.woff') format('woff'),
+//         url('../fonts/DINPro-Regular.svg#DINPro-Regular') format('svg');
+//}
+//
+//@font-face {
+//    font-family: 'acherus_grotesqueblack';
+//    src: url('../fonts/acherus_grotesque_-_black-webfont.eot');
+//    src: url('../fonts/acherus_grotesque_-_black-webfont.eot?#iefix') format('embedded-opentype'),
+//         url('../fonts/acherus_grotesque_-_black-webfont.woff2') format('woff2'),
+//         url('../fonts/acherus_grotesque_-_black-webfont.woff') format('woff'),
+//         url('../fonts/acherus_grotesque_-_black-webfont.ttf') format('truetype'),
+//         url('../fonts/acherus_grotesque_-_black-webfont.svg#acherus_grotesqueblack') format('svg');
+//    font-weight: normal;
+//    font-style: normal;
+//}
+//
+//@font-face {
+//    font-family: 'acherus_grotesqueblack_italic';
+//    src: url('../fonts/acherus_grotesque_-_black_italic-webfont.eot');
+//    src: url('../fonts/acherus_grotesque_-_black_italic-webfont.eot?#iefix') format('embedded-opentype'),
+//         url('../fonts/acherus_grotesque_-_black_italic-webfont.woff2') format('woff2'),
+//         url('../fonts/acherus_grotesque_-_black_italic-webfont.woff') format('woff'),
+//         url('../fonts/acherus_grotesque_-_black_italic-webfont.ttf') format('truetype'),
+//         url('../fonts/acherus_grotesque_-_black_italic-webfont.svg#acherus_grotesqueblack_italic') format('svg');
+//    font-weight: normal;
+//    font-style: normal;
+//
+//}
+
+@font-face {
+    font-family: 'acherus_grotesquebold';
+    src: url('../fonts/acherus_grotesque_-_bold-webfont.eot');
+    src: url('../fonts/acherus_grotesque_-_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/acherus_grotesque_-_bold-webfont.woff2') format('woff2'),
+         url('../fonts/acherus_grotesque_-_bold-webfont.woff') format('woff'),
+         url('../fonts/acherus_grotesque_-_bold-webfont.ttf') format('truetype'),
+         url('../fonts/acherus_grotesque_-_bold-webfont.svg#acherus_grotesquebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'acherus_grotesquebold_italic';
+    src: url('../fonts/acherus_grotesque_-_bold_italic-webfont.eot');
+    src: url('../fonts/acherus_grotesque_-_bold_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/acherus_grotesque_-_bold_italic-webfont.woff2') format('woff2'),
+         url('../fonts/acherus_grotesque_-_bold_italic-webfont.woff') format('woff'),
+         url('../fonts/acherus_grotesque_-_bold_italic-webfont.ttf') format('truetype'),
+         url('../fonts/acherus_grotesque_-_bold_italic-webfont.svg#acherus_grotesquebold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'acherus_grotesqueextrabold';
+    src: url('../fonts/acherus_grotesque_-_extrabold-webfont.eot');
+    src: url('../fonts/acherus_grotesque_-_extrabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/acherus_grotesque_-_extrabold-webfont.woff2') format('woff2'),
+         url('../fonts/acherus_grotesque_-_extrabold-webfont.woff') format('woff'),
+         url('../fonts/acherus_grotesque_-_extrabold-webfont.ttf') format('truetype'),
+         url('../fonts/acherus_grotesque_-_extrabold-webfont.svg#acherus_grotesqueextrabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'acherus_grotesqueblack';
+    src: url('../fonts/acherus_grotesque_-_bold-webfont.eot');
+    src: url('../fonts/acherus_grotesque_-_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/acherus_grotesque_-_bold-webfont.woff2') format('woff2'),
+         url('../fonts/acherus_grotesque_-_bold-webfont.woff') format('woff'),
+         url('../fonts/acherus_grotesque_-_bold-webfont.ttf') format('truetype'),
+         url('../fonts/acherus_grotesque_-_bold-webfont.svg#acherus_grotesqueblack') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'acherus_grotesqueXBdIt';
+    src: url('../fonts/acherus_grotesque_-_extrabold_italic-webfont.eot');
+    src: url('../fonts/acherus_grotesque_-_extrabold_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/acherus_grotesque_-_extrabold_italic-webfont.woff2') format('woff2'),
+         url('../fonts/acherus_grotesque_-_extrabold_italic-webfont.woff') format('woff'),
+         url('../fonts/acherus_grotesque_-_extrabold_italic-webfont.ttf') format('truetype'),
+         url('../fonts/acherus_grotesque_-_extrabold_italic-webfont.svg#acherus_grotesqueXBdIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'acherus_grotesqueRgIt';
+    src: url('../fonts/acherus_grotesque_-_regular_italic-webfont.eot');
+    src: url('../fonts/acherus_grotesque_-_regular_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/acherus_grotesque_-_regular_italic-webfont.woff2') format('woff2'),
+         url('../fonts/acherus_grotesque_-_regular_italic-webfont.woff') format('woff'),
+         url('../fonts/acherus_grotesque_-_regular_italic-webfont.ttf') format('truetype'),
+         url('../fonts/acherus_grotesque_-_regular_italic-webfont.svg#acherus_grotesqueRgIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'acherus_grotesquelight';
+    src: url('../fonts/acherus_grotesque_-_light-webfont.eot');
+    src: url('../fonts/acherus_grotesque_-_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/acherus_grotesque_-_light-webfont.woff2') format('woff2'),
+         url('../fonts/acherus_grotesque_-_light-webfont.woff') format('woff'),
+         url('../fonts/acherus_grotesque_-_light-webfont.ttf') format('truetype'),
+         url('../fonts/acherus_grotesque_-_light-webfont.svg#acherus_grotesquelight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'acherus_grotesquelight_italic';
+    src: url('../fonts/acherus_grotesque_-_light_italic-webfont.eot');
+    src: url('../fonts/acherus_grotesque_-_light_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/acherus_grotesque_-_light_italic-webfont.woff2') format('woff2'),
+         url('../fonts/acherus_grotesque_-_light_italic-webfont.woff') format('woff'),
+         url('../fonts/acherus_grotesque_-_light_italic-webfont.ttf') format('truetype'),
+         url('../fonts/acherus_grotesque_-_light_italic-webfont.svg#acherus_grotesquelight_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'acherus_grotesquemedium';
+    src: url('../fonts/acherus_grotesque_-_medium-webfont.eot');
+    src: url('../fonts/acherus_grotesque_-_medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/acherus_grotesque_-_medium-webfont.woff2') format('woff2'),
+         url('../fonts/acherus_grotesque_-_medium-webfont.woff') format('woff'),
+         url('../fonts/acherus_grotesque_-_medium-webfont.ttf') format('truetype'),
+         url('../fonts/acherus_grotesque_-_medium-webfont.svg#acherus_grotesquemedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'acherus_grotesqueMdIt';
+    src: url('../fonts/acherus_grotesque_-_medium_italic-webfont.eot');
+    src: url('../fonts/acherus_grotesque_-_medium_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/acherus_grotesque_-_medium_italic-webfont.woff2') format('woff2'),
+         url('../fonts/acherus_grotesque_-_medium_italic-webfont.woff') format('woff'),
+         url('../fonts/acherus_grotesque_-_medium_italic-webfont.ttf') format('truetype'),
+         url('../fonts/acherus_grotesque_-_medium_italic-webfont.svg#acherus_grotesqueMdIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'acherus_grotesqueregular';
+    src: url('../fonts/acherus_grotesque_-_regular-webfont.eot');
+    src: url('../fonts/acherus_grotesque_-_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/acherus_grotesque_-_regular-webfont.woff2') format('woff2'),
+         url('../fonts/acherus_grotesque_-_regular-webfont.woff') format('woff'),
+         url('../fonts/acherus_grotesque_-_regular-webfont.ttf') format('truetype'),
+         url('../fonts/acherus_grotesque_-_regular-webfont.svg#acherus_grotesqueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'acherus_grotesquethin';
+    src: url('../fonts/acherus_grotesque_-_thin-webfont.eot');
+    src: url('../fonts/acherus_grotesque_-_thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/acherus_grotesque_-_thin-webfont.woff2') format('woff2'),
+         url('../fonts/acherus_grotesque_-_thin-webfont.woff') format('woff'),
+         url('../fonts/acherus_grotesque_-_thin-webfont.ttf') format('truetype'),
+         url('../fonts/acherus_grotesque_-_thin-webfont.svg#acherus_grotesquethin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'acherus_grotesquethin_italic';
+    src: url('../fonts/acherus_grotesque_-_thin_italic-webfont.eot');
+    src: url('../fonts/acherus_grotesque_-_thin_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/acherus_grotesque_-_thin_italic-webfont.woff2') format('woff2'),
+         url('../fonts/acherus_grotesque_-_thin_italic-webfont.woff') format('woff'),
+         url('../fonts/acherus_grotesque_-_thin_italic-webfont.ttf') format('truetype'),
+         url('../fonts/acherus_grotesque_-_thin_italic-webfont.svg#acherus_grotesquethin_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'acherus_grotesqueultralight';
+    src: url('../fonts/acherus_grotesque_-_ultralight-webfont.eot');
+    src: url('../fonts/acherus_grotesque_-_ultralight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/acherus_grotesque_-_ultralight-webfont.woff2') format('woff2'),
+         url('../fonts/acherus_grotesque_-_ultralight-webfont.woff') format('woff'),
+         url('../fonts/acherus_grotesque_-_ultralight-webfont.ttf') format('truetype'),
+         url('../fonts/acherus_grotesque_-_ultralight-webfont.svg#acherus_grotesqueultralight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'acherus_grotesqueultraLtIt';
+    src: url('../fonts/acherus_grotesque_-_ultralight_italic-webfont.eot');
+    src: url('../fonts/acherus_grotesque_-_ultralight_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/acherus_grotesque_-_ultralight_italic-webfont.woff2') format('woff2'),
+         url('../fonts/acherus_grotesque_-_ultralight_italic-webfont.woff') format('woff'),
+         url('../fonts/acherus_grotesque_-_ultralight_italic-webfont.ttf') format('truetype'),
+         url('../fonts/acherus_grotesque_-_ultralight_italic-webfont.svg#acherus_grotesqueultraLtIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+// DIN PR0
+//$font-dp-light: 'DINPro-Light';
+//$font-dp-regular: 'DINPro-Regular';
+//$font-dp-bold: 'DINPro-Bold';
+//$font-dp-medium: 'DINPro-Medium';
+
+// Acherus grotesque
+$font-dp-light: 'acherus_grotesquelight';
+$font-ag-ulight: 'acherus_grotesqueultralight';
+$font-dp-regular: 'acherus_grotesqueregular';
+$font-dp-medium: 'acherus_grotesquemedium';
+$font-ag-ebold: 'acherus_grotesqueextrabold';
+$font-dp-bold: 'acherus_grotesquebold';
+$font-ag-black: 'acherus_grotesqueblack';
+
+
+/* Google Fonts */
+
+//@import url("https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic,900,900italic");
+//@import url("https://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800,900");
+// font families
+//$font-lato: 'Lato',Arial,Verdana,sans-serif;
+//$font-raleway: 'Raleway',Arial,Verdana,sans-serif;
+// Fonts
+//
+// Font, line-height, and color for body text, headings, and more.
+$font-family-sans-serif: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif !default;
+$font-family-serif: Georgia,"Times New Roman",Times,serif !default;
+$font-family-monospace: Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+$font-family-base: $font-family-sans-serif;
+
+$font-size-base: 1rem; // Assumes the browser default, typically `16px`
+$font-weight-normal: normal;
+$font-weight-bold: bold;
+$font-weight-base: $font-weight-normal;
+$line-height-base: 1.5;
+$font-size-h1: 2.5rem;
+$font-size-h2: 2rem;
+$font-size-h3: 1.75rem;
+$font-size-h4: 1.5rem;
+$font-size-h5: 1.25rem;
+$font-size-h6: 1rem;
+
+
+
+
+
